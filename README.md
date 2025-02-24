@@ -6,3 +6,4 @@ New change
 adfdaf
 change small
 
+test git small
